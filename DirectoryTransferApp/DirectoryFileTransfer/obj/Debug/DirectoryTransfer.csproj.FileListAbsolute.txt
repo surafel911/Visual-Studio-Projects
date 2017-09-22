@@ -1,0 +1,12 @@
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\DirectoryFileTransferApp\DirectoryFileTransfer\obj\Debug\DirectoryTransfer.csprojResolveAssemblyReference.cache
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\DirectoryFileTransferApp\DirectoryFileTransfer\obj\Debug\DirectoryFileTransfer.Properties.Resources.resources
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\DirectoryFileTransferApp\DirectoryFileTransfer\obj\Debug\DirectoryTransfer.csproj.GenerateResource.Cache
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\DirectoryFileTransferApp\DirectoryFileTransfer\bin\Debug\DirectoryFileTransfer.exe.config
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\DirectoryFileTransferApp\DirectoryFileTransfer\bin\Debug\DirectoryFileTransfer.exe
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\DirectoryFileTransferApp\DirectoryFileTransfer\bin\Debug\DirectoryFileTransfer.pdb
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\DirectoryFileTransferApp\DirectoryFileTransfer\obj\Debug\View.FileTransferView.resources
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\DirectoryFileTransferApp\DirectoryFileTransfer\obj\Debug\DirectoryFileTransfer.exe
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\DirectoryFileTransferApp\DirectoryFileTransfer\obj\Debug\DirectoryFileTransfer.pdb
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\DirectoryTransferApp\DirectoryFileTransfer\bin\Debug\DirectoryFileTransfer.exe.config
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\DirectoryTransferApp\DirectoryFileTransfer\obj\Debug\DirectoryFileTransfer.exe
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\DirectoryTransferApp\DirectoryFileTransfer\obj\Debug\DirectoryFileTransfer.pdb

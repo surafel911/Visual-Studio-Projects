@@ -1,0 +1,12 @@
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\Banking App\Banking App\bin\Debug\Banking App.exe.config
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\Banking App\Banking App\bin\Debug\Banking App.exe
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\Banking App\Banking App\bin\Debug\Banking App.pdb
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\Banking App\Banking App\obj\Debug\Banking App.csprojResolveAssemblyReference.cache
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\Banking App\Banking App\obj\Debug\Banking_App.Properties.Resources.resources
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\Banking App\Banking App\obj\Debug\View.BankView.resources
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\Banking App\Banking App\obj\Debug\Banking App.csproj.GenerateResource.Cache
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\Banking App\Banking App\obj\Debug\Banking App.exe
+C:\Users\surafel911\Documents\Coding\Visual Studio Projects\Banking App\Banking App\obj\Debug\Banking App.pdb
+C:\Users\Surafel\Documents\Coding\Visual Studio Projects\Banking App\Banking App\bin\Debug\Banking App.exe.config
+C:\Users\Surafel\Documents\Coding\Visual Studio Projects\Banking App\Banking App\obj\Debug\Banking App.exe
+C:\Users\Surafel\Documents\Coding\Visual Studio Projects\Banking App\Banking App\obj\Debug\Banking App.pdb
